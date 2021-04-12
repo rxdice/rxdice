@@ -11,7 +11,7 @@
 <h3>Talking about Personal Stuffs:</h3>
 <ul>
   <li>💻 I’m currently working on a cool project 😎</li>
-  <li>📫 You can reach me from <a href="https://discord.com/users/548145246983159808" target"blank_">Discord</a> or <a href="https://instagram.com/banbeku" target="_blank">Instagram</a>.</li>
+  <li>📫 You can reach me from <a href="https://discord.com/users/548145246983159808" target"blank_">Discord</a> or <a href="https://instagram.com/bayraakk_" target="_blank">Instagram</a>.</li>
 </ul>
 <h3>Languages and Tools:</h3>
 <p style="float:right">
