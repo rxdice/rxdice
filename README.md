@@ -1,6 +1,6 @@
 
 <h2 align="left">Merhaba, ben Bayrak <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-  <img src="https://lanyard-profile-readme.vercel.app/api/313048538852622344?theme=dark&animated=true&hideDiscrim=false&borderRadius=20px">
+  <img src="https://api.lanyard.rest/v1/users/313048538852622344?theme=dark&animated=true&hideDiscrim=false&borderRadius=20px">
 <h3>Kişisel Hesaplarım</h3>
 <p align="left">
    <a href="https://discord.com/users/138965363172966400" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
