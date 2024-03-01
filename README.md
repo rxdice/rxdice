@@ -13,7 +13,9 @@
   <li>💻 Sadece bir uzaylıyım, taze sıkılmış uzay suyu ister misin ? </li>
 
 </ul>
+<p align="left">
 ![visits](https://komarev.com/ghpvc/?username=rxdice)
+</p>
 <!--<h2 align="left">GitHub istatistiklerim</h2>
 <p align="left">
   
