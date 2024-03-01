@@ -13,16 +13,16 @@
   <li>💻 Sadece bir uzaylıyım, taze sıkılmış uzay suyu ister misin ? </li>
 
 </ul>
-
-<h2 align="left">GitHub istatistiklerim</h2>
+![visits](https://komarev.com/ghpvc/?username=rxdice)
+<!--<h2 align="left">GitHub istatistiklerim</h2>
 <p align="left">
   
-![GitHub metrics](https://metrics.lecoq.io/rxdice?languages=1&gists=1&followup=1)
+<!--![GitHub metrics](https://metrics.lecoq.io/rxdice?languages=1&gists=1&followup=1)
   
 ![visits](https://komarev.com/ghpvc/?username=rxdice)
 
    <img src="https://github-readme-stats.vercel.app/api?username=rxdice&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
-</p>
+</p>--!>
 
 
 
