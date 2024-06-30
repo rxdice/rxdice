@@ -8,11 +8,6 @@
   <!-- <a href="https://instagram.com/bayrakxd_" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>-->
    <a href="https://github.com/rxdice" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-<h3>Hakkımda.</h3>
-<ul>
-  <li>💻 Sadece bir uzaylıyım, taze sıkılmış uzay suyu ister misin ? </li>
-
-</ul>
 <h2 align="left">GitHub istatistiklerim</h2>
 <p align="left">
   
